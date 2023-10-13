@@ -1,0 +1,45 @@
+body{
+    background-color: #262121;
+    color: white;
+}
+
+.entire{
+    display: grid;
+    grid-template-columns: auto auto;
+    background-color: #262121;
+    color: white;
+    margin-top: 4rem;
+}
+.contact {
+
+    margin-left: 1rem;
+}
+input, textarea {
+    margin-top: 2rem;
+    margin-right: 1rem;
+    background-color: #3b3a3a;
+    color: white;
+padding-left: 0.7rem;
+    padding-bottom: 0.7rem;
+    border-radius: 0.5rem;
+    border: none;
+}
+input {
+    height: 1.5rem;
+
+}
+button {
+    border-radius: 1rem;
+    border-color: white;
+    border: none;
+    width: 5rem;
+    background-color: black;
+    color: white;
+}
+.map {
+    border-radius: 1.5rem;
+    margin-left: 2rem;
+}
+
+
+

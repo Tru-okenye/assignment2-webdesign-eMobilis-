@@ -1,0 +1,53 @@
+.about {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+.images {
+    display: grid;
+    grid-template-columns: 40% auto;
+
+
+}
+.img2 {
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    display: grid;
+    grid-template-columns: auto;
+    margin-top: 2rem;
+
+    margin-right: 4rem;
+;
+}
+.img1{
+   display: grid;
+    justify-content: center;
+    align-content: center;
+   margin-right: 1.5rem;
+    margin-top: 8rem;
+
+}
+#img3 {
+    margin-top: 2rem;
+}
+img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 0.7rem;
+}
+.years {
+    display: grid;
+    justify-content: end;
+    align-content: end;
+
+
+}
+h1 {
+    font-family: 'Kanit', sans-serif;
+}
+h2 {
+    font-family: 'Bungee Outline', sans-serif;
+
+}
+p {
+font-family: 'Montserrat', sans-serif;
+}
